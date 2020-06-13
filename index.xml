@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RafaBotero Coding Blog</title>
+    <link>http://rafabotero.github.io/</link>
+    <description>Recent content on RafaBotero Coding Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jun 2020 21:55:36 -0500</lastBuildDate>
+    
+	<atom:link href="http://rafabotero.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microprofile Tutorial</title>
+      <link>http://rafabotero.github.io/posts/microprofile-tutorial/</link>
+      <pubDate>Fri, 12 Jun 2020 21:55:36 -0500</pubDate>
+      
+      <guid>http://rafabotero.github.io/posts/microprofile-tutorial/</guid>
+      <description>Un tutorial de Microprofile</description>
+    </item>
+    
+  </channel>
+</rss>
